@@ -1,0 +1,22 @@
+id: A063C0960
+title: Toh_116-The_Baskets_Display-v1
+type: translation
+pechas:
+- I3CEDBF0A
+- I32AE1D8E
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-03-26T15:49:49.594Z'
+  creationid: celso
+  eft-text-id: UT22084-051-004
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_116-The_Baskets_Display-v1
+alignment_to_base:
+  I3CEDBF0A/5C3B: 04F0
+  I32AE1D8E/F997: 04F0
